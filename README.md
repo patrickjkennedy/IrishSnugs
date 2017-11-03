@@ -1,4 +1,4 @@
-#Irish Snugs#
+# Irish Snugs
 
 A one page app created for credit towards Udacity's Android Basics Nanodegree. It displays details of 
 a popular pub in Dublin. It also serves as an outline of a 'snug' rating app. A 'snug' is a private, 
