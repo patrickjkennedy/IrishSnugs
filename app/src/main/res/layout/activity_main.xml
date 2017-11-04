@@ -15,7 +15,8 @@
         android:src="@drawable/pint"
         android:id="@+id/pint_image_button"
         android:background="@color/white"
-        android:paddingTop="16dp"/>
+        android:padding="32dp"/>
+
 
     <ImageView
         android:layout_width="match_parent"
