@@ -14,3 +14,5 @@ The design contains:
 - Address of the business
 - Description of the business
 
+The pint glass by The Crew at Fusionary from [the Noun Project.](https://thenounproject.com/)
+Pub image by [Dublin Snugs.](https://www.instagram.com/p/BSMOkQ8B830/)

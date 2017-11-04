@@ -14,7 +14,7 @@
         android:layout_centerHorizontal="true"
         android:src="@drawable/pint"
         android:id="@+id/pint_image_button"
-        android:background="@color/white"
+        android:background="@color/offWhite"
         android:padding="32dp"/>
 
 
